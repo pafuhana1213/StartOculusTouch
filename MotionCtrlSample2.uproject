@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.14",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "MidiAsset",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/aff69119f95d405abbab38236e258c2e"
+		}
+	]
 }
