@@ -18,4 +18,6 @@ UE4でOculusTouchを使う上で最低限必要となる要素を用意してい
 * 不具合修正
 
 # 問い合わせ
-@pafuhana1213
+[@pafuhana1213][1]
+
+[1]:https://twitter.com/pafuhana1213
